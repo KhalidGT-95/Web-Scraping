@@ -1,0 +1,2 @@
+This is a simple python script that I wrote which uses BeautifulSoup library to scrape the data from wikipedia articles and find their cosine similarity.
+It is used to illustrate the flexibility and power of web scraping through which we can collect data from the internet.
